@@ -1,8 +1,3 @@
-# Caerus API
+# Python API Practice
 
-Back-end for the job application tracker app.
-
-## Setup
-
-- Must have AWS credentials set up to access the database
-- Requires python and aws-cli installed
+Created a basic movies API that runs on AWS
